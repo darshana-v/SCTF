@@ -1,0 +1,4 @@
+HINT #1: the \z in the txt looks odd, right? why don't you try changing that to the general code for hex values
+
+HINT #2: try using inbuilt modules from python to decrypt the flag
+
