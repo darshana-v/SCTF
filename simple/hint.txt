@@ -1,5 +1,5 @@
 HINT #1: the last sentence of the flag.txt is the key for the next level.
 
-HINT #2: now that you know, it is a simple encryption technique, think about the simplest one
+HINT #2: now that you know it is a simple encryption technique, think about the simplest one
 
 HINT #3: Affine cipher is an example of this type of encryption

@@ -1,3 +1,5 @@
+#!/usr/bin/python3
+
 from Crypto.PublicKey import RSA
 #from Crypto.Util.number import long_to_bytes, bytes_to_long
 from Crypto.Cipher import PKCS1_OAEP
@@ -13,3 +15,5 @@ cipher = PKCS1_OAEP.new(keyprivate)
 message = cipher.decrypt(ciphertext)
 
 print(message)
+
+# output: b's1mpIe5tR5A3v3r'
