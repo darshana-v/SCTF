@@ -18,7 +18,7 @@ Scanning the drive for archives:
 1 file, 589 bytes (1 KiB)
 
 Extracting archive: rsa_key.7z
---
+
 Path = rsa_key.7z
 Type = 7z
 Physical Size = 589
@@ -67,7 +67,7 @@ AAAAAAAFeAAAAAB7uwIDAQAB
 ## this gives the modulus value:
 8000000020000000000000000000000000000000000000000000000000000000000000000000000008000000020008000000020000000000000800000000010C80000015E0000000000000000000000000000000000000000000000000000000000080000000000BD0000000000B500000000000000000000578000000007BBB
 
-# Factoring the publice key
+# Factoring the public key
 ## open python terminal
 $ python3
 ## binary value of modulus
